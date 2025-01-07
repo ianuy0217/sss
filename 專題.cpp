@@ -468,10 +468,7 @@ int main()
 
         print_board();
 
-        if (check_win())
-        {
-            cout << "YOU WIN!" << endl;
-            break;
+        
         }
 
         
