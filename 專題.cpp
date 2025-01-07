@@ -474,8 +474,7 @@ int main()
             break;
         }
 
-        if (!action_ok)
-            cout << get_styled_text("!!! Invalid action !!!", "R");
+        
     }
 
     
